@@ -8,16 +8,16 @@
     - name: See All
       link: /research
 - name: Work Experience
-  # link: 
+  link: /work_experience
   dropdown: 
     - name: Undergrad Course Assistant
-      # link:
+      link: /ugrad_ca_385
     - name: Qualcomm Engineering Intern 
-      # link:
+      link: /qualcomm_2020
     - name: Anheuser-Busch Solutions Intern
-      # link:
+      link: /ab_solutions_2019
     - name: See All
-      # link
+      link: /work_experience
 - name: Projects
   # link:
   dropdown:
