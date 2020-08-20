@@ -1,21 +1,42 @@
 - title: Other Cool Projects
   images:
+    - link: /img/470.gif
+      alt: |-
+        ECE 470 Cleaner Pastures Robot
+      description: |-
+        A robot system developed in simulation to sort blocks by colors. Utilizes forward and inverse kinematics, as well
+        as decision making processes with visual perception.  
+        See more [here](/cleaner_pastures_robot)
     - link: /img/lc4.gif
       alt: |-
-        [ECE 391 LC4 OS](/lc4/)
+        ECE 391 LC4 OS
       description: |- 
-        An operating system developed in a group of four with paging, virtualization, schedule, a file system, and more.    
+        An operating system developed in a group of four with paging, virtualization, scheduling, a file system, and more.    
         See more [here](/lc4/).
     - link: /img/watchdog.png
       alt: |-
-        [Project Watchdog](/watchdog/)
+        Project LD / Watchdog
       description: |- 
         Project LD was a partner project to develop a hardware accelerated 2D match moving core on an FPGA.
         This continued as an IoT security camera project named Project Watchdog.  
         See more [here](/watchdog/).
     - link: /img/hackme.jpg
       alt: |-
-        [HackMe](/hackme/)
+        HackMe
       description: |- 
         A project entered in HackIllinois 2019 to develop a BCI IoT device.  
         See more [here](/hackme/).
+    - link: /img/security_bot.jpg
+      alt: |-
+        Human Interactive Self Balancing Security Robot
+      description: |-
+        A group project to develop a self balancing security robot which would roam the halls of an institution to identify unauthorized people. 
+        Project was developed at Carnegie Mellon University.  
+        See more [here](/xe_security_bot/)
+    - link: /img/xe_light.png
+      alt: |-
+        LIGHT Social Network
+      description: |-
+        A project to convert a social network developed by the University of Pittsburgh's LERSAIS department to act as an outlet and coping platform 
+        for middle and high school students effected by bullying. Key features included anonymity, multiple supportive roles, and more.  
+        See more [here](/xe_light/)

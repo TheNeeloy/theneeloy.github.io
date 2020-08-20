@@ -2,14 +2,14 @@
   images:
     - link: /img/heist.png
       alt: |-
-        [OpenAI's Procgen Heist Environment](/marl_heist/)
+        MARL Heist
       description: |- 
         Adapting a multi-player environment where agents attempt to collaborate and escape a prison. 
         Tackling challenges with low frequency rewards, and enforcing effective communication.  
         See more [here](/marl_heist/).
     - link: /img/crowd_nav.png
       alt: |-
-        [Crowd Navigation Episode](/crowd_nav/)
+        Crowd Navigation
       description: |-
         Testing new reinforcement learning frameworks to teach agents to navigate crowded environments.
         Considers partial observability, variety of policies of simulated humans, randomized start/goal states, and more.  

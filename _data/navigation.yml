@@ -1,3 +1,5 @@
+- name: Publications
+  link: /publications
 - name: Research
   link: /research
   dropdown:
@@ -7,27 +9,34 @@
       link: /crowd_nav
     - name: See All
       link: /research
-- name: Work Experience
-  link: /work_experience
-  dropdown: 
+- name: Teaching
+  link: /teaching
+  dropdown:
     - name: Undergrad Course Assistant
       link: /ugrad_ca_385
+    - name: See All
+      link: /teaching
+- name: Industry
+  link: /work_experience
+  dropdown: 
     - name: Qualcomm Engineering Intern 
       link: /qualcomm_2020
     - name: Anheuser-Busch Solutions Intern
       link: /ab_solutions_2019
+    - name: Anheuser-Busch Logistics Intern
+      link: /ab_logistics_2018
     - name: See All
       link: /work_experience
 - name: Side Projects
   link: /side_projects
   dropdown:
+    - name: Cleaner Pastures Robot
+      link: /cleaner_pastures_robot
     - name: LC4 Operating System
       link: /lc4
     - name: Project LD / Watchdog
       link: /watchdog
-    - name: HackMe
-      link: /hackme
     - name: See All
       link: /side_projects
-- name: Thirst for Learning
-  # link:
+- name: Learning
+  link: /learning
