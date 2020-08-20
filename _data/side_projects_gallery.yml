@@ -1,0 +1,21 @@
+- title: Other Cool Projects
+  images:
+    - link: /img/lc4.gif
+      alt: |-
+        [ECE 391 LC4 OS](/lc4/)
+      description: |- 
+        An operating system developed in a group of four with paging, virtualization, schedule, a file system, and more.    
+        See more [here](/lc4/).
+    - link: /img/watchdog.png
+      alt: |-
+        [Project Watchdog](/watchdog/)
+      description: |- 
+        Project LD was a partner project to develop a hardware accelerated 2D match moving core on an FPGA.
+        This continued as an IoT security camera project named Project Watchdog.  
+        See more [here](/watchdog/).
+    - link: /img/hackme.jpg
+      alt: |-
+        [HackMe](/hackme/)
+      description: |- 
+        A project entered in HackIllinois 2019 to develop a BCI IoT device.  
+        See more [here](/hackme/).

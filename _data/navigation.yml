@@ -18,15 +18,16 @@
       link: /ab_solutions_2019
     - name: See All
       link: /work_experience
-- name: Projects
-  # link:
+- name: Side Projects
+  link: /side_projects
   dropdown:
-    - name: Watchdog / LD
-      # link:
+    - name: LC4 Operating System
+      link: /lc4
+    - name: Project LD / Watchdog
+      link: /watchdog
     - name: HackMe
-      # link:
-    - name: Human-Interactive Security Robot
-      # link:
+      link: /hackme
     - name: See All
+      link: /side_projects
 - name: Thirst for Learning
   # link:
