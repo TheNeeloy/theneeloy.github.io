@@ -1,16 +1,20 @@
 - title: Past & Current Research Projects
   images:
     - link: /img/heist.png
-      alt: |-
-        MARL Heist
+      alt: MARL Heist
       description: |- 
-        Adapting a multi-player environment where agents attempt to collaborate and escape a prison. 
-        Tackling challenges with low frequency rewards, and enforcing effective communication.  
-        See more [here](/marl_heist/).
+        <p align="center">
+          <b><a href="/marl_heist/">Multi-Agent RL Heist Environment</a></b><br>
+          Adapting a multi-player environment where agents attempt to collaborate and steal a gem. 
+          Tackling challenges with low frequency rewards, and enforcing effective communication.
+        </p>
+      ratio: is-1by1
     - link: /img/crowd_nav.png
-      alt: |-
-        Crowd Navigation
+      alt: Crowd Navigation
       description: |-
-        Testing new reinforcement learning frameworks to teach agents to navigate crowded environments.
-        Considers partial observability, variety of policies of simulated humans, randomized start/goal states, and more.  
-        See more [here](/crowd_nav/).
+        <p align="center">
+          <b><a href="/crowd_nav/">Robot Navigation in Crowds</a></b><br>
+          Testing new reinforcement learning frameworks to teach agents to navigate crowded environments. 
+          Considers partial observability, variety of policies of simulated humans, randomized start/goal states, and more.
+        </p>
+      ratio: is-1by1

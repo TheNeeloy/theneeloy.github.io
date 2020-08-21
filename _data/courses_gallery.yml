@@ -1,56 +1,69 @@
 - title: Artificial Intelligence
   images:
-    - link: /img/intro_rl.png
-      alt: |-
-        Introduction to Reinforcement Learning
+    - link: /img/intro_rl.jpg
+      alt: Introduction to Reinforcement Learning
       description: |- 
-        Introduction to Reinforcement Learning was a self taught course teaching the main 
-        techniques in modern RL.  
-        Course details [here](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver).
-    - link: /img/deep_learning.png
-      alt: |-
-        Introduction to Deep Learning
+        <p align="center">
+          <b><a href="https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver">Introduction to Reinforcement Learning</a></b><br>
+          A self taught course teaching the main techniques in modern RL.
+        </p>
+      ratio: is-1by1
+    - link: /img/deep_learning.svg
+      alt: Introduction to Deep Learning
       description: |-
-        Introduction to Deep Learning builds up on the foundations from Intro to AI by discussing 
-        specific hands on approaches to topics like MLPs, CNNs, RNNs, GANs, and more.  
-        Course details [here](http://slazebni.cs.illinois.edu/fall20/).
+        <p align="center">
+          <b><a href="http://slazebni.cs.illinois.edu/fall20/">Introduction to Deep Learning</a></b><br>
+          Builds up on the foundations from Intro to AI by discussing 
+          specific hands on approaches to topics like MLPs, CNNs, RNNs, GANs, and more.
+        </p>
+      ratio: is-1by1
     - link: /img/intro_ai.jpg
-      alt: |-
-        Introduction to Artificial Intelligence
+      alt: Introduction to Artificial Intelligence
       description: |- 
-        Introduction to Aritifical Intelligence laid the foundations for understanding key formulations in the field of AI.  
-        Course details [here](https://courses.grainger.illinois.edu/CS440/sp2019/).
+        <p align="center">
+          <b><a href="https://courses.grainger.illinois.edu/CS440/sp2019/">Introduction to Aritifical Intelligence</a></b><br>
+          Laid the foundations for understanding key formulations in the field of AI.
+        </p>
+      ratio: is-1by1
 - title: Robotics
   images:
     - link: /img/human_centered_autonomy.jpg
-      alt: |-
-        Human Centered Autonomy
+      alt: Human Centered Autonomy
       description: |- 
-        Human Centered Autonomy is a graduate course discussing the design of intelligent robots that can
-        operate safely in the real world among humans. Research skills are developed by critiquing papers, 
-        debating, reviewing, and more.  
-        Course details [here](https://publish.illinois.edu/ece598-hcr/syllabus/).
-    - link: /img/intro_robotics.jpg
-      alt: |-
-        Introduction to Robotics
+        <p align="center">
+          <b><a href="https://publish.illinois.edu/ece598-hcr/syllabus/">Human Centered Autonomy</a></b><br>
+          A graduate course discussing the design of intelligent robots that can
+          operate safely in the real world among humans. Research skills are developed by critiquing papers, 
+          debating, reviewing, and more.
+        </p>
+      ratio: is-1by1
+    - link: /img/intro_robotics.gif
+      alt: Introduction to Robotics
       description: |-
-        Introduction to Robotics is a course covering the necessary fundamentals of modern modeling, perception, planning,
-        and control of robotics.  
-        Course details [here](https://publish.illinois.edu/ece470-intro-robotics/).
+        <p align="center">
+          <b><a href="https://publish.illinois.edu/ece470-intro-robotics/">Introduction to Robotics</a></b><br>
+          A course covering the necessary fundamentals of modern modeling, perception, planning,
+          and control of robotics.
+        </p>
+      ratio: is-1by1
 - title: Hardware / Software Systems
   images:
     - link: /img/391.png
-      alt: |-
-        Computer Systems Engineering
+      alt: Computer Systems Engineering
       description: |- 
-        Computer Systems Engineering introduces students to the concepts central to the development of modern computing
-        systems. There is an emphasis on the systems software that controls interaction between devices and other hardware/software 
-        with a final project developing an operating system.  
-        Course details [here](https://ece.illinois.edu/academics/courses/ece391).
+        <p align="center">
+          <b><a href="https://ece.illinois.edu/academics/courses/ece391">Computer Systems Engineering</a></b><br>
+          Introduces students to the concepts central to the development of modern computing
+          systems. There is an emphasis on the systems software that controls interaction between devices 
+          and other hardware/software with a final project developing an operating system.
+        </p>
+      ratio: is-1by1
     - link: /img/385.jpg
-      alt: |-
-        Digital Systems Laboratory
+      alt: Digital Systems Laboratory
       description: |-
-        Digital Systems Laboratory is a project based course where students learn to design, build, and test
-        digital systems with transistor-transistor logic, SystemVerilog, & FPGAs.  
-        Course details [here](https://ece.illinois.edu/academics/courses/ECE385).
+        <p align="center">
+          <b><a href="https://ece.illinois.edu/academics/courses/ECE385">Digital Systems Laboratory</a></b><br>
+          A project based course where students learn to design, build, and test
+          digital systems with transistor-transistor logic, SystemVerilog, & FPGAs.
+        </p>
+      ratio: is-1by1

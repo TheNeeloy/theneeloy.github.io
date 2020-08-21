@@ -13,7 +13,7 @@
   link: /teaching
   dropdown:
     - name: Undergrad Course Assistant
-      link: /ugrad_ca_385
+      link: https://ece.illinois.edu/academics/courses/ECE385
     - name: See All
       link: /teaching
 - name: Industry
