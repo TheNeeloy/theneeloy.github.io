@@ -27,8 +27,8 @@
       alt: HackMe
       description: |-
         <p align="center">
-          <b><a href="/hackme">HackMe BCI Wearable</a></b><br>
-          A project entered in HackIllinois 2019 to develop a BCI IoT device, earning runner-up awards.
+          <b><a href="https://devpost.com/software/hackme">HackMe BCI Wearable</a></b><br>
+          A project entered in HackIllinois 2019 to develop a BCI IoT device, earning runner-up & sponsor awards.
         </p>
     - link: /img/security_bot.jpg
       alt: Human Interactive Self Balancing Security Robot
