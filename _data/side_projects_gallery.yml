@@ -30,6 +30,14 @@
           <b><a href="https://devpost.com/software/hackme">HackMe BCI Wearable</a></b><br>
           A project entered in HackIllinois 2019 to develop a BCI IoT device, earning runner-up & sponsor awards.
         </p>
+    - link: /img/zegobeast.gif
+      alt: ZeGoBeast
+      description: |-
+        <p align="center">
+          <b><a href="/zegobeast">ZeGoBeast</a></b><br>
+          A wooden electric kinetic robot developed, tested, and modified from Pittsburgh's ZeGoBeast LLC.
+        </p>
+      ratio: is-1by1
     - link: /img/security_bot.jpg
       alt: Human Interactive Self Balancing Security Robot
       description: |-
