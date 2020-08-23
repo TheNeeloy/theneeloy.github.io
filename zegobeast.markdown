@@ -38,10 +38,10 @@ Through this project, I designed models, manufactured parts, built and tested ph
         <p><img src="/img/zegobeast_adapter_corel.jpg" alt="Legs-to-Motor Adapter in CorelDRAW" width="400" /></p>
     </div>
     <div class="column is-narrow">
-        <p><img src="/img/zegobeast_full.png" alt="Full ZeGoBeast Model in Fusion 360" width="400" /></p>
+        <p><img src="/img/zegobeast_full.PNG" alt="Full ZeGoBeast Model in Fusion 360" width="400" /></p>
     </div>
     <div class="column is-narrow">
-        <p><img src="/img/zegobeast_explode.png" alt="Exploded ZeGoBeast Model in Fusion 360" width="400" /></p>
+        <p><img src="/img/zegobeast_explode.PNG" alt="Exploded ZeGoBeast Model in Fusion 360" width="400" /></p>
     </div>
 </div>
 
