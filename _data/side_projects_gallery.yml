@@ -46,11 +46,11 @@
           A group project to develop a self balancing security robot which would roam the halls of an institution to identify unauthorized people. 
           Project was developed at Carnegie Mellon University.  
         </p>
-    - link: /img/xe_light.png
-      alt: LIGHT Social Network
-      description: |-
-        <p align="center">
-          <b><a href="/xe_light">LIGHT Social Network</a></b><br>
-          A project to convert a social network developed by the University of Pittsburgh's LERSAIS department to act as an outlet and coping platform 
-        for middle and high school students effected by bullying. Key features included anonymity, multiple supportive roles, and more.
-        </p>
+    # - link: /img/xe_light.png
+    #   alt: LIGHT Social Network
+    #   description: |-
+    #     <p align="center">
+    #       <b><a href="/xe_light">LIGHT Social Network</a></b><br>
+    #       A project to convert a social network developed by the University of Pittsburgh's LERSAIS department to act as an outlet and coping platform 
+    #     for middle and high school students effected by bullying. Key features included anonymity, multiple supportive roles, and more.
+    #     </p>
