@@ -4,7 +4,7 @@
       alt: ECE 470 Cleaner Pastures Robot
       description: |-
         <p align="center">
-          <b><a href="/cleaner_pastures_robot">Cleaner Pastures Robot</a></b><br>
+          <b style="font-size:20px"><a href="/cleaner_pastures_robot">Cleaner Pastures Robot</a></b><br>
           A robot system developed in simulation to sort blocks by colors. Utilizes forward and inverse kinematics, as well 
           as decision making processes with visual perception.
         </p>
@@ -12,14 +12,14 @@
       alt: ECE 391 LC4 OS
       description: |- 
         <p align="center">
-          <b><a href="/lc4">LC4 Operating System</a></b><br>
+          <b style="font-size:20px"><a href="/lc4">LC4 Operating System</a></b><br>
           An operating system developed in a group of four with paging, virtualization, scheduling, a file system, and more.
         </p>
     - link: /img/watchdog.png
       alt: Project LD / Watchdog
       description: |- 
         <p align="center">
-          <b><a href="/watchdog">Project LD / Watchdog</a></b><br>
+          <b style="font-size:20px"><a href="/watchdog">Project LD / Watchdog</a></b><br>
           Project LD was a partner project to develop a hardware accelerated 2D match moving core on an FPGA.
           This continued as an IoT security camera project named Project Watchdog.  
         </p>
@@ -27,14 +27,14 @@
       alt: HackMe
       description: |-
         <p align="center">
-          <b><a href="https://devpost.com/software/hackme">HackMe BCI Wearable</a></b><br>
+          <b style="font-size:20px"><a href="https://devpost.com/software/hackme">HackMe BCI Wearable</a></b><br>
           A project entered in HackIllinois 2019 to develop a BCI IoT device, earning runner-up & sponsor awards.
         </p>
     - link: /img/zegobeast.gif
       alt: ZeGoBeast
       description: |-
         <p align="center">
-          <b><a href="/zegobeast">ZeGoBeast</a></b><br>
+          <b style="font-size:20px"><a href="/zegobeast">ZeGoBeast</a></b><br>
           A wooden electric kinetic robot developed, tested, and modified from Pittsburgh's ZeGoBeast LLC.
         </p>
       ratio: is-1by1
@@ -42,7 +42,7 @@
       alt: Human Interactive Self Balancing Security Robot
       description: |-
         <p align="center">
-          <b><a href="/xe_security_bot">Human Interactive Security Robot</a></b><br>
+          <b style="font-size:20px"><a href="/xe_security_bot">Human Interactive Security Robot</a></b><br>
           A group project to develop a self balancing security robot which would roam the halls of an institution to identify unauthorized people. 
           Project was developed at Carnegie Mellon University.  
         </p>

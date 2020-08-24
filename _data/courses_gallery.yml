@@ -4,7 +4,7 @@
       alt: Introduction to Reinforcement Learning
       description: |- 
         <p align="center">
-          <b><a href="https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver">Introduction to Reinforcement Learning</a></b><br>
+          <b style="font-size:20px"><a href="https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver">Intro to Reinforcement Learning</a></b><br>
           A self taught course teaching the main techniques in modern RL.
         </p>
       ratio: is-1by1
@@ -12,7 +12,7 @@
       alt: Introduction to Deep Learning
       description: |-
         <p align="center">
-          <b><a href="http://slazebni.cs.illinois.edu/fall20/">Introduction to Deep Learning</a></b><br>
+          <b style="font-size:20px"><a href="http://slazebni.cs.illinois.edu/fall20/">Intro to Deep Learning</a></b><br>
           Builds up on the foundations from Intro to AI by discussing 
           specific hands on approaches to topics like MLPs, CNNs, RNNs, GANs, and more.
         </p>
@@ -21,7 +21,7 @@
       alt: Introduction to Artificial Intelligence
       description: |- 
         <p align="center">
-          <b><a href="https://courses.grainger.illinois.edu/CS440/sp2019/">Introduction to Aritifical Intelligence</a></b><br>
+          <b style="font-size:20px"><a href="https://courses.grainger.illinois.edu/CS440/sp2019/">Intro to Aritifical Intelligence</a></b><br>
           Laid the foundations for understanding key formulations in the field of AI.
         </p>
       ratio: is-1by1
@@ -31,7 +31,7 @@
       alt: Human Centered Autonomy
       description: |- 
         <p align="center">
-          <b><a href="https://publish.illinois.edu/ece598-hcr/syllabus/">Human Centered Autonomy</a></b><br>
+          <b style="font-size:20px"><a href="https://publish.illinois.edu/ece598-hcr/syllabus/">Human Centered Autonomy</a></b><br>
           A graduate course discussing the design of intelligent robots that can
           operate safely in the real world among humans. Research skills are developed by critiquing papers, 
           debating, reviewing, and more.
@@ -41,7 +41,7 @@
       alt: Introduction to Robotics
       description: |-
         <p align="center">
-          <b><a href="https://publish.illinois.edu/ece470-intro-robotics/">Introduction to Robotics</a></b><br>
+          <b style="font-size:20px"><a href="https://publish.illinois.edu/ece470-intro-robotics/">Intro to Robotics</a></b><br>
           A course covering the necessary fundamentals of modern modeling, perception, planning,
           and control of robotics.
         </p>
@@ -52,7 +52,7 @@
       alt: Computer Systems Engineering
       description: |- 
         <p align="center">
-          <b><a href="https://ece.illinois.edu/academics/courses/ece391">Computer Systems Engineering</a></b><br>
+          <b style="font-size:20px"><a href="https://ece.illinois.edu/academics/courses/ece391">Computer Systems Engineering</a></b><br>
           Introduces students to the concepts central to the development of modern computing
           systems. There is an emphasis on the systems software that controls interaction between devices 
           and other hardware/software with a final project developing an operating system.
@@ -62,7 +62,7 @@
       alt: Digital Systems Laboratory
       description: |-
         <p align="center">
-          <b><a href="https://ece.illinois.edu/academics/courses/ECE385">Digital Systems Laboratory</a></b><br>
+          <b style="font-size:20px"><a href="https://ece.illinois.edu/academics/courses/ECE385">Digital Systems Laboratory</a></b><br>
           A project based course where students learn to design, build, and test
           digital systems with transistor-transistor logic, SystemVerilog, & FPGAs.
         </p>

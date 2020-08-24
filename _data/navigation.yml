@@ -1,5 +1,5 @@
-- name: Publications
-  link: /publications
+# - name: Publications
+#   link: /publications
 - name: Research
   link: /research
   dropdown:
@@ -9,13 +9,6 @@
       link: /crowd_nav
     - name: See All
       link: /research
-- name: Teaching
-  link: /teaching
-  dropdown:
-    - name: Undergrad Course Assistant
-      link: https://ece.illinois.edu/academics/courses/ECE385
-    - name: See All
-      link: /teaching
 - name: Industry
   link: /work_experience
   dropdown: 
@@ -38,5 +31,12 @@
       link: /watchdog
     - name: See All
       link: /side_projects
+- name: Teaching
+  link: /teaching
+  dropdown:
+    - name: Undergrad Course Assistant
+      link: https://ece.illinois.edu/academics/courses/ECE385
+    - name: See All
+      link: /teaching
 - name: Learning
   link: /learning

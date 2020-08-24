@@ -4,7 +4,7 @@
       alt: Qualcomm Summer 2020
       description: |-
         <p align="center">
-          <b><a href="/qualcomm_2020">Engineering Intern at Qualcomm GCAD</a></b><br>
+          <b style="font-size:20px"><a href="/qualcomm_2020">Engineering Intern at Qualcomm</a></b><br>
           Developing generalized tools for the Design for Test pipeline at Qualcomm through a challenging design process, 
           and collaborating & adapting with international teams.
         </p>
@@ -13,7 +13,7 @@
       alt: Anheuser Busch Summer 2019
       description: |-
         <p align="center">
-          <b><a href="/ab_solutions_2019">GMT Intern at AB Solutions</a></b><br>
+          <b style="font-size:20px"><a href="/ab_solutions_2019">GMT Intern at AB Solutions</a></b><br>
           Implementing short- and long-term process solutions leveraging techonology with a final
           annual ROI of $1.5M.
         </p>
@@ -22,7 +22,7 @@
       alt: Anheuser Busch Summer 2018
       description: |-
         <p align="center">
-          <b><a href="/ab_logistics_2018">GMT Intern at AB Logistics</a></b><br>
+          <b style="font-size:20px"><a href="/ab_logistics_2018">GMT Intern at AB Logistics</a></b><br>
           Increasing productivity of critical decision-making logistics team by developing clear and concise
           visualizations for KPIs.
         </p>
