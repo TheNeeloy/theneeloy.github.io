@@ -5,12 +5,12 @@ items:
     subtitle: Concise Summary of my Work
     icon: fa-file
     call_to_action_name: Download
-    call_to_action_link: #
+    call_to_action_link: /docs/Chakraborty_Neeloy_Resume.pdf
   - title: Curriculum Vitae
     subtitle: Full Academic History
     icon: fa-user-tie
     call_to_action_name: Download
-    call_to_action_link: #
+    call_to_action_link: /docs/Chakraborty_Neeloy_CV.pdf
   - title: GitHub
     subtitle: Public Projects
     icon: fa-github
