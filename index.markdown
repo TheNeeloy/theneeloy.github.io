@@ -6,7 +6,7 @@ layout: page
 title: Neeloy Chakraborty
 subtitle: UIUC BS CompE '21
 hero_height: is-large
-hero_image: img/landing_profile.JPG
+hero_image: img/landing_profile.jpg
 show_sidebar: false
 hero_darken: true
 hero_link: https://www.linkedin.com/in/neeloy-chakraborty/
