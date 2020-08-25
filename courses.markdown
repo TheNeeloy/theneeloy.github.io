@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning
+title: Relevant Courses
 hero_height: is-small
 gallery: courses_gallery
 permalink: /learning

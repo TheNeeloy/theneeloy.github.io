@@ -7,6 +7,8 @@
           <b style="font-size:20px"><a href="/cleaner_pastures_robot">Cleaner Pastures Robot</a></b><br>
           A robot system developed in simulation to sort blocks by colors. Utilizes forward and inverse kinematics, as well 
           as decision making processes with visual perception.
+          <br>
+          <a href="/cleaner_pastures_robot/">Read More</a>
         </p>
     - link: /img/lc4.gif
       alt: ECE 391 LC4 OS
@@ -14,6 +16,8 @@
         <p align="center">
           <b style="font-size:20px"><a href="/lc4">LC4 Operating System</a></b><br>
           An operating system developed in a group of four with paging, virtualization, scheduling, a file system, and more.
+          <br>
+          <a href="/lc4/">Read More</a>
         </p>
     - link: /img/watchdog.png
       alt: Project LD / Watchdog
@@ -22,6 +26,8 @@
           <b style="font-size:20px"><a href="/watchdog">Project LD / Watchdog</a></b><br>
           Project LD was a partner project to develop a hardware accelerated 2D match moving core on an FPGA.
           This continued as an IoT security camera project named Project Watchdog.  
+          <br>
+          <a href="/watchdog/">Read More</a>
         </p>
     - link: /img/hackme.jpg
       alt: HackMe
@@ -29,6 +35,8 @@
         <p align="center">
           <b style="font-size:20px"><a href="https://devpost.com/software/hackme">HackMe BCI Wearable</a></b><br>
           A project entered in HackIllinois 2019 to develop a BCI IoT device, earning runner-up & sponsor awards.
+          <br>
+          <a href="https://devpost.com/software/hackme/">Read More</a>
         </p>
     - link: /img/zegobeast.gif
       alt: ZeGoBeast
@@ -36,6 +44,8 @@
         <p align="center">
           <b style="font-size:20px"><a href="/zegobeast">ZeGoBeast</a></b><br>
           A wooden electric kinetic robot developed, tested, and modified from Pittsburgh's ZeGoBeast LLC.
+          <br>
+          <a href="/zegobeast">Read More</a>
         </p>
       ratio: is-1by1
     - link: /img/security_bot.jpg
@@ -44,7 +54,9 @@
         <p align="center">
           <b style="font-size:20px"><a href="/xe_security_bot">Human Interactive Security Robot</a></b><br>
           A group project to develop a self balancing security robot which would roam the halls of an institution to identify unauthorized people. 
-          Project was developed at Carnegie Mellon University.  
+          Developed at Carnegie Mellon University.  
+          <br>
+          <a href="/xe_security_bot">Read More</a>
         </p>
     # - link: /img/xe_light.png
     #   alt: LIGHT Social Network

@@ -1,0 +1,25 @@
+style: is-light
+height: is-small
+items:
+  - title: Resume
+    subtitle: Concise Summary of my Work
+    icon: fa-file
+    call_to_action_name: Download
+    call_to_action_link: #
+  - title: Curriculum Vitae
+    subtitle: Full Academic History
+    icon: fa-user-tie
+    call_to_action_name: Download
+    call_to_action_link: #
+  - title: GitHub
+    subtitle: Public Projects
+    icon: fa-github
+    icon_brand: true
+    call_to_action_name: Check It Out Here
+    call_to_action_link: https://github.com/TheNeeloy
+  - title: LinkedIn
+    subtitle: Professional Networking Platform
+    icon: fa-linkedin
+    icon_brand: true
+    call_to_action_name: Connect Here
+    call_to_action_link: https://www.linkedin.com/in/neeloy-chakraborty/

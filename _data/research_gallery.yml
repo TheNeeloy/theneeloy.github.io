@@ -7,6 +7,8 @@
           <b style="font-size:20px"><a href="/marl_heist/">Multi-Agent RL Heist Environment</a></b><br>
           Adapting a multi-player environment where agents attempt to collaborate and steal a gem. 
           Tackling challenges with low frequency rewards, and enforcing effective communication.
+          <br>
+          <a href="/marl_heist/">Read More</a>
         </p>
       ratio: is-1by1
     - link: /img/crowd_nav.png
@@ -15,6 +17,8 @@
         <p align="center">
           <b style="font-size:20px"><a href="/crowd_nav/">Robot Navigation in Crowds</a></b><br>
           Testing new reinforcement learning frameworks to teach agents to navigate crowded environments. 
-          Considers partial observability, variety of policies of simulated humans, randomized start/goal states, and more.
+          Considers partial observability, variety of policies of humans, randomized start/goal states, and more.
+          <br>
+          <a href="/crowd_nav/">Read More</a>
         </p>
       ratio: is-1by1

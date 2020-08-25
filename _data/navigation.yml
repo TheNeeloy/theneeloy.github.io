@@ -2,41 +2,11 @@
 #   link: /publications
 - name: Research
   link: /research
-  dropdown:
-    - name: Multi-Agent Heist Environment
-      link: /marl_heist
-    - name: Robot Navigation in Crowds
-      link: /crowd_nav
-    - name: See All
-      link: /research
 - name: Industry
   link: /work_experience
-  dropdown: 
-    - name: Qualcomm Engineering Intern 
-      link: /qualcomm_2020
-    - name: Anheuser-Busch Solutions Intern
-      link: /ab_solutions_2019
-    - name: Anheuser-Busch Logistics Intern
-      link: /ab_logistics_2018
-    - name: See All
-      link: /work_experience
 - name: Side Projects
   link: /side_projects
-  dropdown:
-    - name: Cleaner Pastures Robot
-      link: /cleaner_pastures_robot
-    - name: LC4 Operating System
-      link: /lc4
-    - name: Project LD / Watchdog
-      link: /watchdog
-    - name: See All
-      link: /side_projects
 - name: Teaching
   link: /teaching
-  dropdown:
-    - name: Undergrad Course Assistant
-      link: https://ece.illinois.edu/academics/courses/ECE385
-    - name: See All
-      link: /teaching
 - name: Learning
   link: /learning

@@ -7,6 +7,8 @@
           <b style="font-size:20px"><a href="https://ece.illinois.edu/academics/courses/ECE385">Undergrad Course Asst. for Digital Systems Lab</a></b><br>
           In this role, I assist students in Digital Systems Lab on transistor-transistor logic 
           and system verilog hardware labs. I also hold office hours and support students with other other means.
+          <br>
+          <a href="https://ece.illinois.edu/academics/courses/ECE385">Read More</a>
         </p>
       ratio: is-1by1
 - title: Tutorial Presentations
@@ -18,6 +20,8 @@
           <b style="font-size:20px"><a href="/docs/teaching_pres_marl.pptx">Multi-Agent RL Overview</a></b><br>
           This presentation initially discusses an overview of the basic formulations and challenges behind MARL and then goes into 
           current methods of training in sparse reward environments & stimulating collaboration among agents during traning.
+          <br>
+          <a href="/docs/teaching_pres_marl.pptx">Read More</a>
         </p>
     - link: /img/pep_git.png
       alt: PEP8 & Git
@@ -25,4 +29,6 @@
         <p align="center">
           <b style="font-size:20px"><a href="/docs/teaching_pres_pep_git.pptx">PEP8 & Git Tutorials</a></b><br>
           Here, I present the details behind the PEP8 Python coding style as well as a tutorial of how to use Git functionalities.
+          <br>
+          <a href="/docs/teaching_pres_pep_git.pptx">Read More</a>
         </p>

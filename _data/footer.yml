@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Research
+  link: /research/
+- name: Industry
+  link: /work_experience/
+- name: Side Projects
+  link: /side_projects/
+- name: Teaching
+  link: /teaching/
+- name: Learning
+  link: /learning/
