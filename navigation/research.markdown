@@ -161,7 +161,7 @@ status="is-success" %}
 <div class="columns">
 <div class="column is-6">
 <p align="center">
-<b>Accepted to ICRA 2022</b>
+<b>Accepted to ICRA 2021</b>
 </p>
 </div>
 <div class="column is-6">
