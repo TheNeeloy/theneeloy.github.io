@@ -1,0 +1,32 @@
+# - label: Research Topics
+#   items:
+#     - name: Autonomous Driving
+#       link: /research#autonomous-driving
+#       items:
+#         - name: SABeR-VAE Anomaly Detection
+#         - name: Congestion Mitigation
+#         - name: Navigating Intersections
+#     - name: Robotics
+#       link: /research#robotics
+#       items:
+#         - name: CrowdNav V2
+#         - name: CrowdNav V1
+#     - name: Machine Learning
+#       link: /research#machine-learning
+#       items:
+#         - name: Hierarchical RL
+#     - name: Computer Vision
+#       link: /research#computer-vision
+#       items:
+#         - name: Video Prediction
+
+- label: Research Projects
+  items:
+    - name: Autonomous Driving
+      link: /research#autonomous-driving
+    - name: Robotics
+      link: /research#robotics
+    - name: Machine Learning
+      link: /research#machine-learning
+    - name: Computer Vision
+      link: /research#computer-vision

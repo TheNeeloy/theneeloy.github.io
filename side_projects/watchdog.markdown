@@ -50,5 +50,5 @@ The finite state machine for the project is a Mealy Machine which transitions vi
 A Tracker module was developed in hardware to identify and track the location of the ping pong ball with 2D match moving. As the VGA signal scans from left to right and top to bottom, the pixel is passed to the tracker module. If the current pixel is found to be within a margin outside or inside of the current estimation of the tracked location of the ball and is within a defined color threshold for the ball, the tracking box expands or shrinks accordingly. This results in the tracking box moving as the ball moves in the real world. 
 
 ## Project Watchdog
-Project LD continued as Project Watchdog submitted to InnovateFPGA 2019, where my partner & I received regional finalist standing. More details about that project can be found [here](http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=AS020).
+Project LD continued as Project Watchdog submitted to InnovateFPGA 2019, where my partner & I received regional finalist standing. More details about that project can be found [here](https://web.archive.org/web/20200923182208/http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=AS020).
 

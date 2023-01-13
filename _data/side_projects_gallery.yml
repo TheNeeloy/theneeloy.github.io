@@ -4,30 +4,30 @@
       alt: ECE 470 Cleaner Pastures Robot
       description: |-
         <p align="center">
-          <b style="font-size:20px"><a href="/side_projects/cleaner_pastures_robot">Cleaner Pastures Robot</a></b><br>
+          <b style="font-size:20px"><a href="/cleaner_pastures_robot">Cleaner Pastures Robot</a></b><br>
           A robot system developed in simulation to sort blocks by colors. Utilizes forward and inverse kinematics, as well 
           as decision making processes with visual perception.
           <br>
-          <a href="/side_projects/cleaner_pastures_robot/">Read More</a>
+          <a href="/cleaner_pastures_robot/">Read More</a>
         </p>
     - link: /img/lc4.gif
       alt: ECE 391 LC4 OS
       description: |- 
         <p align="center">
-          <b style="font-size:20px"><a href="/side_projects/lc4">LC4 Operating System</a></b><br>
+          <b style="font-size:20px"><a href="/lc4">LC4 Operating System</a></b><br>
           An operating system developed in a group of four with paging, virtualization, scheduling, a file system, and more.
           <br>
-          <a href="/side_projects/lc4/">Read More</a>
+          <a href="/lc4/">Read More</a>
         </p>
     - link: /img/watchdog.png
       alt: Project LD / Watchdog
       description: |- 
         <p align="center">
-          <b style="font-size:20px"><a href="/side_projects/watchdog">Project LD / Watchdog</a></b><br>
+          <b style="font-size:20px"><a href="/watchdog">Project LD / Watchdog</a></b><br>
           Project LD was a partner project to develop a hardware accelerated 2D match moving core on an FPGA.
           This continued as an IoT security camera project named Project Watchdog.  
           <br>
-          <a href="/side_projects/watchdog/">Read More</a>
+          <a href="/watchdog/">Read More</a>
         </p>
     - link: /img/hackme.jpg
       alt: HackMe
@@ -42,27 +42,27 @@
       alt: ZeGoBeast
       description: |-
         <p align="center">
-          <b style="font-size:20px"><a href="/side_projects/zegobeast">ZeGoBeast</a></b><br>
+          <b style="font-size:20px"><a href="/zegobeast">ZeGoBeast</a></b><br>
           A wooden electric kinetic robot developed, tested, and modified from Pittsburgh's ZeGoBeast LLC.
           <br>
-          <a href="/side_projects/zegobeast">Read More</a>
+          <a href="/zegobeast">Read More</a>
         </p>
       ratio: is-1by1
     - link: /img/security_bot.jpg
       alt: Human Interactive Self Balancing Security Robot
       description: |-
         <p align="center">
-          <b style="font-size:20px"><a href="/side_projects/xe_security_bot">Human Interactive Security Robot</a></b><br>
+          <b style="font-size:20px"><a href="/xe_security_bot">Human Interactive Security Robot</a></b><br>
           A group project to develop a self balancing security robot which would roam the halls of an institution to identify unauthorized people. 
           Developed at Carnegie Mellon University.  
           <br>
-          <a href="/side_projects/xe_security_bot">Read More</a>
+          <a href="/xe_security_bot">Read More</a>
         </p>
-    - link: /img/xe_light.png
-      alt: LIGHT Social Network
-      description: |-
-        <p align="center">
-          <b><a href="/xe_light">LIGHT Social Network</a></b><br>
-          A project to convert a social network developed by the University of Pittsburgh's LERSAIS department to act as an outlet and coping platform 
-        for middle and high school students effected by bullying. Key features included anonymity, multiple supportive roles, and more.
-        </p>
+    # - link: /img/xe_light.png
+    #   alt: LIGHT Social Network
+    #   description: |-
+    #     <p align="center">
+    #       <b><a href="/xe_light">LIGHT Social Network</a></b><br>
+    #       A project to convert a social network developed by the University of Pittsburgh's LERSAIS department to act as an outlet and coping platform 
+    #     for middle and high school students effected by bullying. Key features included anonymity, multiple supportive roles, and more.
+    #     </p>
