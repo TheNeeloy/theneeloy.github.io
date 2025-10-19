@@ -1,16 +1,16 @@
-- label: Research Projects
+- label: Research Directions
   items:
     - name: Foundation Model Evaluation
-      link: /research#fm-eval
+      link: /research#foundation-model-evaluation
     - name: Field Robotics
-      link: /research#field-robots
+      link: /research#field-robotics
     - name: Autonomous Driving
       link: /research#autonomous-driving
     - name: Instruction-Following Agents
-      link: /research#instruction-following
+      link: /research#instruction-following-agents
     - name: Robot Crowd Navigation
-      link: /research#crowdnav
+      link: /research#robot-crowd-navigation
     - name: Traffic Congestion Mitigation
-      link: /research#carp
+      link: /research#traffic-congestion-mitigation
     - name: Machine Learning
       link: /research#machine-learning

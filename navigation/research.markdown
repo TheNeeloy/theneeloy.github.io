@@ -7,7 +7,7 @@ menubar: research_menu_bar
 permalink: /research/
 ---
 
-# [Foundation Model Evaluation](#fm-eval)
+# [Foundation Model Evaluation](#foundation-model-evaluation)
 
 <!--  -->
 
@@ -78,7 +78,7 @@ While researchers have shown promising results in deploying foundation models to
 </div>
 </div>
 
-# [Field Robotics](#field-robots)
+# [Field Robotics](#field-robotics)
 
 <!--  -->
 
@@ -228,7 +228,7 @@ Navigation through uncontrolled intersections is one of the key challenges for a
 </div>
 </div>
 
-# [Instruction-Following Agents](#instruction-following)
+# [Instruction-Following Agents](#instruction-following-agents)
 
 <!--  -->
 
@@ -301,7 +301,7 @@ We introduce our system BEAST (Building an Embodied Action-prediction System wit
 </div>
 </div>
 
-# [Robot Crowd Navigation](#crowdnav)
+# [Robot Crowd Navigation](#robot-crowd-navigation)
 
 <!--  -->
 
@@ -410,7 +410,7 @@ Safe and efficient navigation through human crowds is an essential capability fo
 </div>
 </div>
 
-# [Traffic Congestion Mitigation](#carp)
+# [Traffic Congestion Mitigation](#traffic-congestion-mitigation)
 
 <!--  -->
 
