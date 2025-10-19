@@ -33,6 +33,7 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+google_analytics: G-3XCSWZD4HN
 
 # Build settings
 theme: bulma-clean-theme
