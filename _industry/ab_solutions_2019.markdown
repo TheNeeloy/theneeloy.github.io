@@ -1,8 +1,15 @@
 ---
-layout: page
-title: Summer 2019 Solutions Intern @ Anheuser Busch
-hero_height: is-small
-permalink: /ab_solutions_2019/
+title: Summer 2019 Solutions Intern
+subtitle: Anheuser Busch
+hide_hero: true
+layout: product
+image: /img/ab_2019.jpg
+ratio: is-16by9
+features:
+    - label: Identifying root causes of a multi-million-dollar annual problem with Six Sigma LEAN exercises
+    - label: Implementing short- and long-term process solutions leveraging technology with an annual ROI of $1.5M
+    - label: Pitching solutions to multidisciplinary teams in the People department including managers and directors
+order: -1
 ---
 
 ## Responsibilities

@@ -1,8 +1,15 @@
 ---
-layout: page
-title: Summer 2018 Logistics Intern @ Anheuser Busch
-hero_height: is-small
-permalink: /ab_logistics_2018/
+title: Summer 2018 Logistics Intern
+subtitle: Anheuser Busch
+hide_hero: true
+layout: product
+image: /img/ab_2018.jpg
+ratio: is-16by9
+features:
+    - label: Increasing productivity of critical decision-making team by developing clear visualizations
+    - label: Creating effective data visualizations with Qlik Sense and SQL databases
+    - label: Connecting with multidisciplinary logistics teams and interns
+order: 0
 ---
 
 ## Responsibilities

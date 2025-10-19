@@ -1,8 +1,15 @@
 ---
-layout: page
-title: Summer 2020 Engineering Intern @ Qualcomm
-hero_height: is-small
-permalink: /qualcomm_2020/
+title: Summer 2020 Engineering Intern
+subtitle: Qualcomm
+hide_hero: true
+layout: product
+image: /img/qualcomm_2020.jpg
+ratio: is-16by9
+features:
+    - label: Building generalized data gathering solutions to support Design For Test pipeline
+    - label: Leading design process of a base framework for data gathering tool
+    - label: Collaborating and adapting with international teams to consider multiple perspectives
+order: -2
 ---
 
 ## Responsibilities

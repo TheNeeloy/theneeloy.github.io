@@ -27,6 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  theneeloy
 footer_menu: footer
 fixed_navbar: top
+collections:
+  industry: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
 
 # Build settings
 theme: bulma-clean-theme

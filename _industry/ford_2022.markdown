@@ -1,0 +1,14 @@
+---
+title: Summer 2022 Research and Advanced Engineering Intern 
+subtitle: Ford Motor Company
+hide_hero: true
+layout: product
+image: /img/ford_2022.jpg
+ratio: is-16by9
+features:
+    - label: Designing sample efficient model-free + model-based RL methods
+    - label: Outperforming classical PID controllers by 41% in complex autonomous vehicle use case
+    - label: Conducting both independent and collaborative research and guiding experimental design according to results
+    - label: Submitted patent disclosure for koopman model-based RL <a href="https://patents.google.com/patent/US20240320505A1">(Patent Pending)</a>
+order: -4
+---

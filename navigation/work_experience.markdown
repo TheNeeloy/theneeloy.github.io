@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: product-category
+show_sidebar: false
+collection: industry
 title: Industry Experience
 hero_height: is-small
-gallery: work_gallery
-permalink: /work_experience/
+permalink: /industry/
+sort: order
 ---
-
